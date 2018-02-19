@@ -3,7 +3,6 @@ Makefile.in
 /Makefile
 /data/Makefile
 /data/fsearch.desktop
-/data/fsearch.desktop.in
 /po/*.mo
 /po/*.gmo
 /po/Makefile
