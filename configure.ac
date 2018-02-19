@@ -8,12 +8,6 @@ AC_CONFIG_HEADERS([config.h])
 AC_CONFIG_SRCDIR([src/fsearch.c])
 AM_SILENT_RULES([yes])
 
-IT_PROG_INTLTOOL([0.50.1])
-GETTEXT_PACKAGE=fsearch
-AC_SUBST(GETTEXT_PACKAGE)
-AC_DEFINE_UNQUOTED([GETTEXT_PACKAGE], ["$GETTEXT_PACKAGE"], [GETTEXT package name])
-AM_GLIB_GNU_GETTEXT
-
 AC_PROG_CC
 
 AC_ARG_ENABLE(debug,
@@ -56,9 +50,11 @@ PKG_CHECK_MODULES(PCRE, libpcre)
 AC_SUBST(PCRE_CFLAGS)
 AC_SUBST(PCRE_LIBS)
 
+AM_GNU_GETTEXT([external])
+AM_GNU_GETTEXT_VERSION([0.19.8])
+
 AC_CONFIG_FILES([Makefile
                  data/Makefile
-                 data/fsearch.desktop.in
                  po/Makefile.in
                  src/Makefile])
 AC_OUTPUT

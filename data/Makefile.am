@@ -1,16 +1,8 @@
-@INTLTOOL_DESKTOP_RULE@
-
-@INTLTOOL_XML_RULE@
 desktopdir = $(datadir)/applications
-desktop_in_in_files = fsearch.desktop.in.in
-desktop_in_files = fsearch.desktop.in
-desktop_DATA = $(desktop_in_files:.desktop.in=.desktop)
+dist_desktop_DATA = fsearch.desktop
 
-EXTRA_DIST = \
-	     $(desktop_in_in_files) \
-	     $(NULL)
+EXTRA_DIST = fsearch.desktop.in
+CLEANFILES = fsearch.desktop
 
-CLEANFILES = \
-	     $(desktop_DATA) \
-	     $(desktop_in_files) \
-	     $(NULL)
+fsearch.desktop: fsearch.desktop.in
+	$(AM_V_GEN) $(MSGFMT) --desktop --template $< -d $(top_srcdir)/po -o $@

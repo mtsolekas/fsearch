@@ -27,6 +27,21 @@ Makefile.in
 /config.log
 .deps
 /config.h*
+ABOUT-NLS
+config.guess
+config.rpath
+config.sub
+m4/
+po/Makevars.template
+po/POTFILES
+po/Rules-quot
+po/boldquot.sed
+po/en@boldquot.header
+po/en@quot.header
+po/insert-header.sin
+po/quot.sed
+po/remove-potcdate.sin
+po/stamp-po
 
 # Project files
 tags
