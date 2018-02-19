@@ -68,8 +68,6 @@ CLEANFILES = $(BUILT_SOURCES)
 
 fsearch_CPPFLAGS = -DLOCALEDIR=\"$(localedir)\"
 
-resource_files=$(shell $(GLIB_COMPILE_RESOURCES) --sourcedir=$(srcdir) --generate-dependencies $(srcdir)/gresource.xml)
-
 resources.h:
 	$(AM_V_GEN) $(GLIB_COMPILE_RESOURCES) --target=$@ --sourcedir=$(srcdir) --generate-header $(srcdir)/gresource.xml
 
