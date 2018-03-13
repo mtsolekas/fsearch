@@ -7,17 +7,10 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: FSearch 0.1\n"
-<<<<<<< HEAD
-"Report-Msgid-Bugs-To: christian.boxdoerfer@posteo.de\n"
-"POT-Creation-Date: 2018-02-19 16:17+0200\n"
-"PO-Revision-Date: 2018-01-02 18:35+0000\n"
-"Last-Translator: Adolfo Jayme Barrientos <fitojb@ubuntu.com>\n"
-=======
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-10-13 18:11+0200\n"
 "PO-Revision-Date: 2018-03-13 14:41+0000\n"
 "Last-Translator: marcos lans <marcoslansgarza@gmail.com>\n"
->>>>>>> 4a70069bc7d12d35bdc08f8286eb68d4e3420584
 "Language-Team: Spanish <https://hosted.weblate.org/projects/fsearch/"
 "translations/es/>\n"
 "Language: es\n"
