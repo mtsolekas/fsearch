@@ -7,10 +7,17 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: FSearch 0.1\n"
+<<<<<<< HEAD
 "Report-Msgid-Bugs-To: christian.boxdoerfer@posteo.de\n"
 "POT-Creation-Date: 2018-02-19 16:17+0200\n"
 "PO-Revision-Date: 2018-01-02 18:35+0000\n"
 "Last-Translator: Adolfo Jayme Barrientos <fitojb@ubuntu.com>\n"
+=======
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-10-13 18:11+0200\n"
+"PO-Revision-Date: 2018-03-13 14:41+0000\n"
+"Last-Translator: marcos lans <marcoslansgarza@gmail.com>\n"
+>>>>>>> 4a70069bc7d12d35bdc08f8286eb68d4e3420584
 "Language-Team: Spanish <https://hosted.weblate.org/projects/fsearch/"
 "translations/es/>\n"
 "Language: es\n"
@@ -18,7 +25,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.19-dev\n"
+"X-Generator: Weblate 2.20-dev\n"
 
 #: src/fsearch.glade:55
 msgid "Open File(s)"
@@ -66,11 +73,11 @@ msgstr "_Editar"
 
 #: src/fsearch.glade:322
 msgid "Deselect All"
-msgstr "No seleccionar ninguno"
+msgstr "Desmarcar todo"
 
 #: src/fsearch.glade:331
 msgid "Invert Selection"
-msgstr "Invertir selección"
+msgstr "Inverter selección"
 
 #: src/fsearch.glade:360
 msgid "_View"
@@ -90,7 +97,7 @@ msgstr "Mostrar filtro"
 
 #: src/fsearch.glade:399
 msgid "Show Search Button"
-msgstr "Mostrar botón de búsqueda"
+msgstr "Mostrar botón de busca"
 
 #: src/fsearch.glade:411
 msgid "_Search"
@@ -98,15 +105,15 @@ msgstr "_Buscar"
 
 #: src/fsearch.glade:422
 msgid "Search in Path"
-msgstr "Buscar en ruta"
+msgstr "Buscar na ruta"
 
 #: src/fsearch.glade:432
 msgid "Match Case"
-msgstr "Coincidir mayúsculas y minúsculas"
+msgstr "Coincidir maiúsculas e minúsculas"
 
 #: src/fsearch.glade:442
 msgid "Enable RegEx"
-msgstr "Activar expresiones regulares"
+msgstr "Activar expresións regulares"
 
 #: src/fsearch.glade:455
 msgid "_Help"
