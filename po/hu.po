@@ -6,284 +6,292 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: FSearch 0.1beta\n"
-"Report-Msgid-Bugs-To: christian.boxdoerfer@posteo.de\n"
-"POT-Creation-Date: 2018-02-19 16:17+0200\n"
-"PO-Revision-Date: 2017-01-13 10:56+0100\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-10-13 18:11+0200\n"
+"PO-Revision-Date: 2018-06-17 05:39+0000\n"
+"Last-Translator: Doma Gergő <domag02@gmail.com>\n"
+"Language-Team: Hungarian <https://hosted.weblate.org/projects/fsearch/"
+"translations/hu/>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.0.1\n"
 
 #: src/fsearch.glade:55
 msgid "Open File(s)"
-msgstr ""
+msgstr "Fájl(ok) megnyitása"
 
 #: src/fsearch.glade:65
 msgid "Open With Other Application"
-msgstr ""
+msgstr "Megnyitás más alkalmazással"
 
 #: src/fsearch.glade:70
 msgid "Open Containing Folder"
-msgstr ""
+msgstr "Tartalmazó mappa megnyitása"
 
 #: src/fsearch.glade:73
 msgid "Open File(s) in File Manager"
-msgstr ""
+msgstr "Fájl(ok) megnyitása fájlkezelőben"
 
 #: src/fsearch.glade:109
 msgid "Move to Trash"
-msgstr ""
+msgstr "Áthelyezés a Kukába"
 
 #: src/fsearch.glade:135 data/fsearch.desktop.in:5
 msgid "FSearch"
-msgstr ""
+msgstr "FSearch"
 
 #: src/fsearch.glade:154
 msgid "_File"
-msgstr ""
+msgstr "_Fájl"
 
 #: src/fsearch.glade:162
 msgid "New Window"
-msgstr ""
+msgstr "Új ablak"
 
 #: src/fsearch.glade:191
 msgid "Open Folder"
-msgstr ""
+msgstr "Mappa megnyitása"
 
 #: src/fsearch.glade:226
 msgid "Update Database"
-msgstr ""
+msgstr "Adatbázis frissítése"
 
 #: src/fsearch.glade:261
 msgid "_Edit"
-msgstr ""
+msgstr "_Szerkesztés"
 
 #: src/fsearch.glade:322
 msgid "Deselect All"
-msgstr ""
+msgstr "Minden kijelölés megszüntetése"
 
 #: src/fsearch.glade:331
 msgid "Invert Selection"
-msgstr ""
+msgstr "Kijelölés megfordítása"
 
 #: src/fsearch.glade:360
 msgid "_View"
-msgstr ""
+msgstr "_Nézet"
 
 #: src/fsearch.glade:371
 msgid "Show Menubar"
-msgstr ""
+msgstr "Menüsor mutatása"
 
 #: src/fsearch.glade:381
 msgid "Show Statusbar"
-msgstr ""
+msgstr "Státuszsor mutatása"
 
 #: src/fsearch.glade:390
 msgid "Show Filter"
-msgstr ""
+msgstr "Szűrés mutatása"
 
 #: src/fsearch.glade:399
 msgid "Show Search Button"
-msgstr ""
+msgstr "Keresés gomb mutatása"
 
 #: src/fsearch.glade:411
 msgid "_Search"
-msgstr ""
+msgstr "_Keresés"
 
 #: src/fsearch.glade:422
 msgid "Search in Path"
-msgstr ""
+msgstr "Keresés az élérési útban"
 
 #: src/fsearch.glade:432
 msgid "Match Case"
-msgstr ""
+msgstr "Kis- és nagybetű különböző"
 
 #: src/fsearch.glade:442
 msgid "Enable RegEx"
-msgstr ""
+msgstr "Reguláris kifejezések engedélyezése"
 
 #: src/fsearch.glade:455
 msgid "_Help"
-msgstr ""
+msgstr "_Súgó"
 
 #: src/fsearch.glade:505
 msgid "Search..."
-msgstr ""
+msgstr "Keresés..."
 
 #: src/fsearch.glade:519
 msgid "Select a Filter"
-msgstr ""
+msgstr "Szűrő kiválasztása"
 
 #: src/fsearch.glade:522
 msgid "All"
-msgstr ""
+msgstr "Összes"
 
 #: src/fsearch.glade:523
 msgid "Folders"
-msgstr ""
+msgstr "Mappák"
 
 #: src/fsearch.glade:524
 msgid "Files"
-msgstr ""
+msgstr "Fájlok"
 
 #: src/fsearch.glade:544 src/preferences.ui:365
 msgid "Search"
-msgstr ""
+msgstr "Keresés"
 
 #: src/fsearch.glade:646
 msgid "Number of Search Results"
-msgstr ""
+msgstr "Keresési eredmények száma"
 
 #: src/fsearch.glade:647
 msgid "0 Items"
-msgstr ""
+msgstr "0 elem"
 
 #: src/fsearch.glade:702 src/fsearch.glade:726
 msgid "0/0"
-msgstr ""
+msgstr "0/0"
 
 #: src/fsearch.glade:779 src/overlay.ui:143
 msgid "Updating Database..."
-msgstr ""
+msgstr "Adatbázis frissítése..."
 
 #: src/fsearch.glade:793
 msgid "page0"
-msgstr ""
+msgstr "0. lap"
 
 #: src/fsearch.glade:817
 msgid "(empty)"
-msgstr ""
+msgstr "(üres)"
 
 #: src/fsearch.glade:828
 msgid "page1"
-msgstr ""
+msgstr "1. lap"
 
 #: src/fsearch.glade:872
 msgid "CASE"
-msgstr ""
+msgstr "BETŰMÉRET"
 
 #: src/fsearch.glade:924
 msgid "PATH"
-msgstr ""
+msgstr "ÚT"
 
 #: src/fsearch.glade:976
 msgid "REGEX"
-msgstr ""
+msgstr "REGULÁRIS KIFEJEZÉS"
 
 #: src/menus.ui:7
 msgid "_Open"
-msgstr ""
+msgstr "_Megnyitás"
 
 #: src/menus.ui:13
 msgid "Open _With"
-msgstr ""
+msgstr "Megnyitás _ezzel"
 
 #: src/menus.ui:19
 msgid "Other Application"
-msgstr ""
+msgstr "Más alkalmazás"
 
 #: src/menus.ui:25
 msgid "_Open Folder"
-msgstr ""
+msgstr "_Mappa megnyitása"
 
-#: src/menus.ui:41
+#: ../src/menus.ui.h:5
+msgid "C_ut"
+msgstr "_Kivág"
+
+#: ../src/menus.ui.h:6
 msgid "_Copy"
-msgstr ""
+msgstr "_Másol"
 
 #: src/menus.ui:47
 msgid "_Copy Filepath"
-msgstr ""
+msgstr "_Elérési út másolása"
 
 #: src/menus.ui:54
 msgid "Move to _Trash"
-msgstr ""
+msgstr "Áthelyezés a K_ukába"
 
 #: src/menus.ui:60
 msgid "_Delete"
-msgstr ""
+msgstr "_Törlés"
 
 #: src/menus.ui:78 src/listview.c:149
 msgid "Name"
-msgstr ""
+msgstr "Név"
 
 #: src/menus.ui:82 src/listview.c:178
 msgid "Path"
-msgstr ""
+msgstr "Elérési út"
 
 #: src/menus.ui:86 src/listview.c:268
 msgid "Type"
-msgstr ""
+msgstr "Típus"
 
 #: src/menus.ui:90 src/listview.c:207
 msgid "Size"
-msgstr ""
+msgstr "Méret"
 
 #: src/menus.ui:94 src/listview.c:239
 msgid "Date Modified"
-msgstr ""
+msgstr "Módosítás dátuma"
 
 #: src/overlay.ui:31
 msgid "Empty Database"
-msgstr ""
+msgstr "Adatbázis kiürítése"
 
 #: src/overlay.ui:46
 msgid "Go to <b>Edit → Preferences → Database</b> and add some locations"
 msgstr ""
+"Nyisd meg a <b>Szerkesztés → Beállítások → Adatbázis</b>-t és adj hozzá "
+"néhány helyet"
 
 #: src/overlay.ui:87
 msgid "Empty Query"
-msgstr ""
+msgstr "Lekérdezés kiürítése"
 
 #: src/overlay.ui:102
 msgid "Press <b>Ctrl + F</b> and start typing"
-msgstr ""
+msgstr "Nyomj <b>Ctrl + F</b>-et és kezdj el gépelni"
 
 #: src/overlay.ui:158
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: src/overlay.ui:173
 msgid "This may take a while."
-msgstr ""
+msgstr "Ez eltarthat egy ideig."
 
 #: src/overlay.ui:213
 msgid "No Results Found"
-msgstr ""
+msgstr "Nincs találat"
 
 #: src/overlay.ui:228
 msgid "Try a different search"
-msgstr ""
+msgstr "Próbálj ki egy másik keresést"
 
 #: src/preferences.ui:17
 msgid "Preferences"
-msgstr ""
+msgstr "Beállítások"
 
 #: src/preferences.ui:63
 msgid "Enable dark theme"
-msgstr ""
+msgstr "Sötét téma engedélyezése"
 
 #: src/preferences.ui:76
 msgid "Show tooltips"
-msgstr ""
+msgstr "Eszköztippek mutatása"
 
 #: src/preferences.ui:89
 msgid "Remember window size"
-msgstr ""
+msgstr "Ablakméret megjegyzése"
 
 #: src/preferences.ui:102
 msgid "Remember column configuration"
-msgstr ""
+msgstr "Oszlopok elrendezésének megjegyzése"
 
 #: src/preferences.ui:115
 msgid "Show icons in name column"
-msgstr ""
+msgstr "Ikonok mutatása a név oszlopban"
 
 #: src/preferences.ui:128
 msgid "Use binary units instead of decimal units"
-msgstr ""
+msgstr "Használj bináris egységeket a decimálisak helyett"
 
 #: src/preferences.ui:146
 msgid "Behaviour after successfully opening a file"
@@ -310,70 +318,74 @@ msgid ""
 "INFO: \"Enable dark theme\" might not have an effect,\n"
 "since not every GTK+ theme provides a dark version."
 msgstr ""
+"MEGJEGYZÉS: \"Sötét téma engedélyezése\" lehet hogy hatástalan,\n"
+"mivel nem minden GTK+ téma biztosít sötét változatot."
 
 #: src/preferences.ui:270
 msgid "Interface"
-msgstr ""
+msgstr "Felület"
 
 #: src/preferences.ui:288
 msgid "Limit number of results:"
-msgstr ""
+msgstr "Eredmények számának korlátozása:"
 
 #: src/preferences.ui:316
 msgid "Search in path when query contains path separators"
 msgstr ""
+"Keresés az elérési útban, ha a lekérdezésben útvonal elválasztó karakter van"
 
 #: src/preferences.ui:330
 msgid "Search as you type"
-msgstr ""
+msgstr "Keresés gépelés közben"
 
 #: src/preferences.ui:344
 msgid "Hide results when search is empty"
-msgstr ""
+msgstr "Eredmények elrejtése, ha a keresési mező üres"
 
 #: src/preferences.ui:384
 msgid "Update database on start"
-msgstr ""
+msgstr "Adatbázis frissítése indításkor"
 
 #: src/preferences.ui:419 src/preferences.ui:523
 msgid "Add"
-msgstr ""
+msgstr "Hozzáad"
 
 #: src/preferences.ui:435 src/preferences.ui:539
 msgid "Remove"
-msgstr ""
+msgstr "Eltávolít"
 
 #: src/preferences.ui:482
 msgid "Follow symbolic links"
-msgstr ""
+msgstr "Szimbolikus linkek követése"
 
 #: src/preferences.ui:499
 msgid "Include"
-msgstr ""
+msgstr "Belefoglalás"
 
 #: src/preferences.ui:586
 msgid "Exclude hidden files and folders"
-msgstr ""
+msgstr "Rejtett fájlok és mappák kizárása"
 
 #: src/preferences.ui:607 src/preferences.ui:620
 msgid "Supports wildcards. Multiple entries must be separated by ';'"
 msgstr ""
+"Helyettesítő karakterek támogatva. A bejegyzéseket ';'-vel kell elválasztani"
 
 #: src/preferences.ui:608
 msgid "Exclude files:"
-msgstr ""
+msgstr "Fájlok kizárása:"
 
 #: src/preferences.ui:621
 msgid "e.g. \".git;*.tmp\""
-msgstr ""
+msgstr "pl. \".git;*.tmp\""
 
 #: src/preferences.ui:645
 msgid "Exclude"
-msgstr ""
+msgstr "Kizárás"
 
 #: src/preferences.ui:668
 msgid "Database"
-msgstr ""
+msgstr "Adatbázis"
 
 #: src/preferences.ui:691
 msgid "Show warning dialogs when:"
@@ -390,7 +402,7 @@ msgstr ""
 #: src/fsearch_window.c:98 src/fsearch_window.c:316 src/fsearch_window.c:817
 #, c-format
 msgid "%'d Items"
-msgstr ""
+msgstr "%'d elem"
 
 #: src/fsearch_window.c:641 src/fsearch_window_actions.c:413
 #: src/fsearch_window_actions.c:464
@@ -404,32 +416,34 @@ msgstr ""
 
 #: src/fsearch_window.c:823
 msgid "Last Updated: %Y-%m-%d %H:%M"
-msgstr ""
+msgstr "Utoljára frissítve: %Y-%m-%d %H:%M"
 
 #: src/fsearch_window.c:838
 #, c-format
 msgid "Loading Database..."
-msgstr ""
+msgstr "Adatbázis betöltése..."
 
 #: src/fsearch.c:333
 msgid "A search utility focusing on performance and advanced features"
 msgstr ""
+"Egy keresési segédprogram, mely a teljesítményre és a fejlett képességekre "
+"összpontosít"
 
 #: src/fsearch_window_actions.c:138
 msgid "Do you really want to remove"
-msgstr ""
+msgstr "Biztosan el akarsz távolítani"
 
 #: src/fsearch_window_actions.c:138
 msgid "files?"
-msgstr ""
+msgstr "fájlt?"
 
 #: src/fsearch_window_actions.c:142
 msgid "Deleting files..."
-msgstr ""
+msgstr "Fájlok törlése..."
 
 #: src/fsearch_window_actions.c:142
 msgid "Moving files to trash..."
-msgstr ""
+msgstr "Fájlok áthelyezése a Kukába..."
 
 #: data/fsearch.desktop.in:6
 msgid "A file search application focusing on performance and advanced features"
