@@ -24,6 +24,11 @@ AM_CONDITIONAL(DEBUG, test x"$debug" = x"true")
 
 CFLAGS+=" -Os"
 
+AX_CHECK_COMPILE_FLAG([-std=c11], [CFLAGS+=" -std=c11" ],
+                      [echo "C compiler cannot compile C11 code. Abort"
+                       exit -1
+                      ])
+
 AC_FUNC_ALLOCA
 
 PKG_PROG_PKG_CONFIG
