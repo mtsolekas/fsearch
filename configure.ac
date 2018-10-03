@@ -3,7 +3,7 @@ AC_INIT([FSearch],
         [christian.boxdoerfer@posteo.de],
         [fsearch],
         [https://cboxdoerfer.github.io/fsearch])
-AM_INIT_AUTOMAKE([-Wall -Werror foreign])
+AM_INIT_AUTOMAKE([-Wall foreign])
 AC_CONFIG_HEADERS([config.h])
 AC_CONFIG_SRCDIR([src/fsearch.c])
 AM_SILENT_RULES([yes])
